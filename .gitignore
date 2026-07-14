@@ -1,0 +1,22 @@
+# --- Compiled Object Files & Libraries ---
+*.o
+*.obj
+*.a
+*.lib
+
+# --- Executables ---
+*.exe
+*.out
+*.app
+
+# --- Dev-C++ IDE & Build Files ---
+*.layout
+*.win
+Makefile.win
+*.depend
+
+# --- Operating System Files ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
